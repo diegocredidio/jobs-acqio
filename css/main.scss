@@ -136,7 +136,7 @@ body {
 }
 
 .footer {
-  background-color: $yellow;
+  background-color: darken($blue, 5%);
   text-align: center;
-  color: $blue;
+  color: white;
 }

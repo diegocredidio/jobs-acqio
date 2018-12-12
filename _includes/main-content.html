@@ -1,7 +1,12 @@
 <section class="maincontent">
   <div class="container">
-    {% include header.html %}
+    {% include header.html %} {% include features.html %}
+  </div>
+</section>
+{% include benefits.html %}
 
+<section class="maincontent mt-5">
+  <div class="container">
     <div class="row">
       <div class="col-sm-7 pr-sm-5">
         <div class="h1 about-heading pr-lg-4 pt-lg-4">{{ page.heading }}</div>
@@ -14,12 +19,11 @@
       </div>
       {% include form-candidatura.html %}
     </div>
-    {% include features.html %}
   </div>
 </section>
-{% include benefits.html %}
-<section class="footer">
-  <div class="container py-5">
+
+<section class="footer mt-5">
+  <div class="container py-4">
     <div class="footer-address">{{ page.address }}</div>
     <div class="footer-address">{{ page.place }} - {{ page.zip }}</div>
     <div class="pt-2">

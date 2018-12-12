@@ -21,9 +21,7 @@ form_subtitle: "É SUPER SIMPLES, SÓ PREENCHA O FORMULÁRIO COM OS SEUS DADOS L
 
 feature_title: Interessado em fazer parte de uma empresa que respira inovação?
 feature_description: |-
-  Já pensou em trabalhar com sistemas distribuídos, escaláveis e tolerantes à falha, hospedados na nuvem e com orquestração automatizada? 
-
-  Já pensou em trabalhar para modernizar pagamentos através do uso de dispositivos móveis?
+  Já pensou em trabalhar com sistemas distribuídos, escaláveis e tolerantes à falha, hospedados na nuvem e com orquestração automatizada? Já pensou em trabalhar para modernizar pagamentos através do uso de dispositivos móveis?
 
   Venha fazer parte do nosso time de Engenheiros de Software em Recife e trabalhe com:
 ---
