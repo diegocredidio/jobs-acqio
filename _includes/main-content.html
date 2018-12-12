@@ -1,0 +1,34 @@
+<section class="maincontent">
+  <div class="container">
+    {% include header.html %}
+
+    <div class="row">
+      <div class="col-sm-7 pr-sm-5">
+        <div class="h1 about-heading pr-lg-4 pt-lg-4">{{ page.heading }}</div>
+        <div class="about-text mt-4 pr-lg-4">
+          {{ page.about | markdownify }}
+        </div>
+        <div class="p-4">
+          <img src="images/image-acqio.png" class="img-fluid" alt="" />
+        </div>
+      </div>
+      {% include form-candidatura.html %}
+    </div>
+    {% include features.html %}
+  </div>
+</section>
+{% include benefits.html %}
+<section class="footer">
+  <div class="container py-5">
+    <div class="footer-address">{{ page.address }}</div>
+    <div class="footer-address">{{ page.place }} - {{ page.zip }}</div>
+    <div class="pt-2">
+      <img
+        src="images/logo-acqio-white.png"
+        class="img-fluid"
+        alt=""
+        width="70"
+      />
+    </div>
+  </div>
+</section>
