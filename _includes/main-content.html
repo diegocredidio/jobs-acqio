@@ -25,7 +25,9 @@
 <section class="footer mt-5">
   <div class="container py-4">
     <div class="footer-address">{{ page.address }}</div>
-    <div class="footer-address">{{ page.place }} - {{ page.zip }}</div>
+    <div class="footer-address">
+      {{ page.office }} {{ page.place }} {{ page.zip }}
+    </div>
     <div class="pt-2">
       <img
         src="images/logo-acqio-white.png"
