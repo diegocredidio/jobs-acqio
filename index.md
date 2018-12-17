@@ -16,7 +16,7 @@ about: |-
 
   Contamos com uma rede de venda com centenas de consultores sob o modelo de franquia e a nossa missão é levar os melhores serviços financeiros para as massas.
 
-  Hoje, ocupamos a 21ª posição no ranking de franquias da Associação Brasileira de Franchising e estamos entre as 3 maiores microfranquias do Brasil.
+  Hoje, ocupamos a 13ª posição no ranking de franquias da Associação Brasileira de Franchising e estamos entre as 3 maiores microfranquias do Brasil.
 form_title: "Quer se candidatar para esta vaga?"
 form_subtitle: "É SUPER SIMPLES, SÓ PREENCHA O FORMULÁRIO COM OS SEUS DADOS LOGO ABAIXO:"
 
