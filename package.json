@@ -7,7 +7,7 @@
     "glob-stream": "^6.1.0",
     "glob-watcher": "^5.0.3",
     "globule": "^1.2.1",
-    "gulp": "^4.0.0",
+    "gulp": "^3.9.1",
     "gulp-autoprefixer": "^6.0.0",
     "gulp-htmlmin": "^5.0.1",
     "gulp-imagemin": "^5.0.3",
